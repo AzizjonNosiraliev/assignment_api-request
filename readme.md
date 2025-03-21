@@ -1,8 +1,8 @@
-# Lesson 2E: API Requests Assignment
+# API Requests 
 
 ---
 
-## What this lab covers:
+## What this assignment covers:
 
 - Create a server using express
 - Use a router to handle all URL requests
